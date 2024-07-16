@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Visa",
+        "img": "https://www.visa.com.au/dam/VCOM/regional/ve/romania/blogs/hero-image/visa-logo-800x450.jpg"
+    },
+    {
+        "name": "MasterCard",
+        "img": "https://imageio.forbes.com/blogs-images/steveolenski/files/2016/07/Mastercard_new_logo-1200x865.jpg?height=512&width=711&fit=bounds"
+    },
+    {
+        "name": "American Express",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/American_Express_logo_%282018%29.svg/1200px-American_Express_logo_%282018%29.svg.png"
+    },
+    {
+        "name": "Discover",
+        "img": "https://1000logos.net/wp-content/uploads/2021/05/Discover-logo.png"
+    },
+    {
+        "name": "Diners Club",
+        "img": "https://logowik.com/content/uploads/images/diners-club7780.logowik.com.webp"
+    }
+]

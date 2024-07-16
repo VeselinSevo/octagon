@@ -1,0 +1,50 @@
+[
+    {
+      "icon": {
+        "fontawesome": "fas fa-seedling",
+        "flaticon": "https://www.flaticon.com/svg/static/icons/svg/2921/2921823.svg"
+      },
+      "title": "Continuous Growth",
+      "description": "Engage in lifelong learning to constantly grow and adapt in a rapidly changing world."
+    },
+    {
+      "icon": {
+        "fontawesome": "fas fa-chart-line",
+        "flaticon": "https://www.flaticon.com/svg/static/icons/svg/2942/2942909.svg"
+      },
+      "title": "Career Advancement",
+      "description": "Gain new skills and knowledge to advance your career and open up new opportunities."
+    },
+    {
+      "icon": {
+        "fontawesome": "fas fa-tools",
+        "flaticon": "https://www.flaticon.com/svg/static/icons/svg/2634/2634073.svg"
+      },
+      "title": "Skill Enhancement",
+      "description": "Improve and expand your skill set to stay relevant and competitive in your field."
+    },
+    {
+      "icon": {
+        "fontawesome": "fas fa-user-graduate",
+        "flaticon": "https://www.flaticon.com/svg/static/icons/svg/2920/2920172.svg"
+      },
+      "title": "Personal Development",
+      "description": "Foster personal growth and self-improvement through structured learning experiences."
+    },
+    {
+      "icon": {
+        "fontawesome": "fas fa-users",
+        "flaticon": "https://www.flaticon.com/svg/static/icons/svg/2922/2922558.svg"
+      },
+      "title": "Networking Opportunities",
+      "description": "Connect with peers, mentors, and industry professionals to expand your professional network."
+    },
+    {
+      "icon": {
+        "fontawesome": "fas fa-thumbs-up",
+        "flaticon": "https://www.flaticon.com/svg/static/icons/svg/2911/2911995.svg"
+      },
+      "title": "Increased Confidence",
+      "description": "Build self-confidence by mastering new subjects and achieving your educational goals."
+    }
+  ]

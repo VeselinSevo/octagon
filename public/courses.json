@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "React",
+        "price": 100,
+        "description": "Learn React to build dynamic and responsive web applications using one of the most popular JavaScript libraries. This course covers component-based architecture, hooks, state management, and integrating APIs.",
+        "src": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN",
+        "numOfStudents": 5000,
+        "duration": 55,
+        "teachers": [
+            {
+                "id": 2,
+                "src": "/img/courses/teachers/teacher2.jpg",
+                "alt": "nesto",
+                "name": "Antonio"
+            },
+            {
+                "id": 4,
+                "src": "/img/courses/teachers/teacher4.jpg",
+                "alt": "nesto",
+                "name": "Antonio"
+            },
+            {
+                "id": 3,
+                "src": "/img/courses/teachers/teacher3.jpg",
+                "alt": "nesto",
+                "name": "Antonio"
+            }
+        ],
+        "rating": 4.9,
+        "numOfReviews": 753,
+        "isBestSeller": true,
+        "numOfFinishedStudents": 4000,
+        "technologies": ["HTML", "CSS", "JavaScript", "React", "Redux", "Node.js", "MongoDB", "Visual Studio Code"]
+    },
+    {
+        "id": 2,
+        "name": "Vue",
+        "price": 90,
+        "description": "Master Vue to create robust and scalable web applications with a comprehensive framework. This course includes in-depth lessons on TypeScript, components, services, dependency injection, and routing.",
+        "src": "https://www.sipexe.com/assets/courses/Vue_js.png",
+        "numOfStudents": 4000,
+        "duration": 35,
+        "teachers": [
+            {
+                "id": 2,
+                "src": "/img/courses/teachers/teacher2.jpg",
+                "alt": "nesto",
+                "name": "Antonio"
+            },
+            {
+                "id": 3,
+                "src": "/img/courses/teachers/teacher3.jpg",
+                "alt": "nesto",
+                "name": "Rudiger"
+            },
+            {
+                "id": 4,
+                "src": "/img/courses/teachers/teacher4.jpg",
+                "alt": "nesto",
+                "name": "Fernandez"
+            }
+        ],
+        "rating": 4.8,
+        "numOfReviews": 673,
+        "isBestSeller": true,
+        "numOfFinishedStudents": 3500,
+        "technologies": ["HTML", "CSS", "JavaScript", "Vue.js", "Vuex", "Vuetify", "Node.js", "MongoDB", "Visual Studio Code"]
+    },
+    {
+        "id": 3,
+        "name": "Angular",
+        "price": 80,
+        "description": "Discover Angular, a progressive framework for building user interfaces and single-page applications. This course teaches the fundamentals of Angular, including directives, components, Angular Router, and state management.",
+        "src": "https://www.sipexe.com/assets/courses/Angular.jpg",
+        "numOfStudents": 6000,
+        "duration": 45,
+        "teachers": [
+            {
+                "id": 3,
+                "src": "/img/courses/teachers/teacher3.jpg",
+                "alt": "nesto",
+                "name": "Rudiger"
+            },
+            {
+                "id": 4,
+                "src": "/img/courses/teachers/teacher4.jpg",
+                "alt": "nesto",
+                "name": "Fernandez"
+            },
+            {
+                "id": 2,
+                "src": "/img/courses/teachers/teacher2.jpg",
+                "alt": "nesto",
+                "name": "Antonio"
+            }
+        ],
+        "rating": 4.3,
+        "numOfReviews": 1022,
+        "isBestSeller": false,
+        "numOfFinishedStudents": 5000,
+        "technologies": ["HTML", "CSS", "JavaScript", "TypeScript", "Angular", "RxJS", "Node.js", "MongoDB", "Visual Studio Code"]
+    }
+]
